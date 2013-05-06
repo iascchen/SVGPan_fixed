@@ -1,0 +1,6 @@
+SVGPan 1.2.2 can be download from https://code.google.com/p/svgpan/
+But I found this version have two bugs:
+1. Can't zoom and pan in Firefox.
+2. In Chrome, the text size can't be zoomed in to very small. (My solution is hide the small text)
+
+So I add the fixed version
