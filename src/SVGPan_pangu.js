@@ -1,5 +1,5 @@
 /**
- *  SVGPan library 1.2.4 , Version Edited by chenhao@panguso.com, 20130430
+ *  SVGPan library 1.2.4 , Version Edited by iascchen@gmail.com, 20130430
  * ======================
  *
  * 1.2.3 fix the issue by changing line 115 in version 1.2.2. To:  setCTM(r, t.getCTM() || t.getScreenCTM());
